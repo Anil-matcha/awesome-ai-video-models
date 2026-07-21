@@ -122,6 +122,7 @@ Don't trust a maker's own demo reel — check independent evals before committin
 Aggregators that expose many of the above behind one API/key:
 
 - **[MuAPI](https://muapi.ai)** — unified API across image + video models (Kling, Veo, Seedance, Hailuo, Wan, and more), one key, one billing
+- **[RunAPI](https://runapi.ai)** — OpenAI-compatible API platform for running video and other media model jobs with one key
 - **[Fal](https://fal.ai)** — fast inference, broad model catalog
 - **[Replicate](https://replicate.com)** — pay-per-run, large community model catalog
 
