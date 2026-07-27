@@ -8,6 +8,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
+- [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) — Python SDK and MCP server for Wan 3.0-compatible video generation.
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — curated hub of open generative-media tools and pipelines
 - [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) — generate a finished video from a text prompt end-to-end
 - [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) — multi-scene AI micro-drama pipeline
