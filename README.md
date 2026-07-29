@@ -8,6 +8,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
+- [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) — Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.
 - [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) — Python SDK and MCP server for Wan 3.0-compatible video generation.
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — curated hub of open generative-media tools and pipelines
 - [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) — generate a finished video from a text prompt end-to-end
