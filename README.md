@@ -8,6 +8,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
+- [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) — Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants
 - [MuAPI video-generation docs](https://muapi.ai/docs/video-generation) — Use the models compared here through one unified API.
 - [MuAPI model playground](https://muapi.ai/playground) — Test video models before choosing an integration.
 - [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) — Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.
