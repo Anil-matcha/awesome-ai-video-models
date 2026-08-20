@@ -24,6 +24,7 @@ Unlike other lists that just dump links, this one answers the question developer
 - [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 - [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) — FLUX 3 API guide, prompts, and parameters
 - [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) — ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.
+- [Video-Utilities-API](https://github.com/Anil-matcha/Video-Utilities-API) — compare Muapi video upscaling and video-to-audio post-production endpoints.
 
 ## Contents
 
