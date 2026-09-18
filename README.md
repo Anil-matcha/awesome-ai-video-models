@@ -36,6 +36,7 @@ Unlike other lists that just dump links, this one answers the question developer
 - [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) — FLUX 3 API guide, prompts, and parameters
 - [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) — ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.
 - [Gemini-Omni-1.1-Flash-API](https://github.com/Anil-matcha/Gemini-Omni-1.1-Flash-API) — Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.
+- [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) — frontier Gemini use cases covering multimodal, visual, and agent workflows.
 - [Video-Utilities-API](https://github.com/Anil-matcha/Video-Utilities-API) — compare Muapi video upscaling and video-to-audio post-production endpoints.
 
 ## Contents
