@@ -138,6 +138,7 @@ Don't trust a maker's own demo reel — check independent evals before committin
 - **[VBench / VBench-2.0](https://github.com/Vchitect/VBench)** — 16-dimension automated quality benchmark
 - **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
 - **Video-Bench** — human-aligned evaluation suite
+- **[MiniMax H3 1K prompt dataset](https://neta.art/use-cases/en/h3-1000-prompt-list)** — 1,000 annotated text-to-video prompts: 3-field structure anatomy, 10 reusable prompts, H3 vs. peer model comparison.
 
 ## How to choose
 
