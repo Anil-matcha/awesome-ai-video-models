@@ -18,6 +18,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
+- [AIVideoRunbook](https://github.com/madebysaira/AIVideoRunbook) — offline-first credit-to-delivery orchestrator and quality catalog for AI video generation.
 - [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) — Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants
 - [MuAPI video-generation docs](https://muapi.ai/docs/video-generation) — Use the models compared here through one unified API.
 - [MuAPI model playground](https://muapi.ai/playground) — Test video models before choosing an integration.
