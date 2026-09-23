@@ -31,6 +31,7 @@ Unlike other lists that just dump links, this one answers the question developer
 - [Veo-4-API](https://github.com/Anil-matcha/Veo-4-API) — Python wrapper for Google Veo 4
 - [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) — Python wrapper for ByteDance Seedance 2
 - [Seedance-3-API](https://github.com/Anil-matcha/Seedance-3-API) — companion project for the next Seedance API generation.
+- [Kling-4-API](https://github.com/Anil-matcha/Kling-4-API) — Python client and runnable examples for Kling video generation through MuAPI
 - [seedance-motion-control](https://github.com/Anil-matcha/seedance-motion-control) — compare Seedance 2 and 2.5 motion-control limits and use runnable Muapi examples
 - [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) — prompt library for Seedance 2.5
 - [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) — free curriculum teaching creators how to monetize the models compared in this list
