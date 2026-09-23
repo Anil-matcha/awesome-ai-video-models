@@ -131,6 +131,7 @@ Post-process generated (or real) footage — upscale, interpolate, denoise.
 |------|------|----------|
 | **Topaz Video AI** | Commercial | Highest-quality upscale + interpolation |
 | **FlashVSR** | Open source | Fast video super-resolution |
+| **[Lucid](https://github.com/braedonsaunders/lucid)** | Open source | Real-time AI video super-resolution for Apple silicon Macs (browser video in place) |
 | **Video2X** | Open source | Free upscaling (waifu2x/Real-ESRGAN) |
 | **REAL Video Enhancer** | Open source | Interpolation + upscaling GUI |
 
