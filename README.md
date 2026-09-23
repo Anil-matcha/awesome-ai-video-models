@@ -156,6 +156,7 @@ Don't trust a maker's own demo reel — check independent evals before committin
 Aggregators that expose many of the above behind one API/key:
 
 - **[MuAPI](https://muapi.ai)** — unified API across image + video models (Kling, Veo, Seedance, Hailuo, Wan, and more), one key, one billing
+- **[Magic Hour](https://magichour.ai)** — unified video-generation API for Kling 3.0, Seedance 2, Sora 2, Veo 3.1, and Wan 2.2, with model-specific credit costs ([models and pricing](https://docs.magichour.ai/api-reference/models))
 
 Native APIs (single-vendor): Google Gemini (Veo), OpenAI (Sora), Runway, Luma, Pika, MiniMax.
 
