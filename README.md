@@ -130,6 +130,7 @@ Post-process generated (or real) footage — upscale, interpolate, denoise.
 | Tool | Type | Best for |
 |------|------|----------|
 | **Topaz Video AI** | Commercial | Highest-quality upscale + interpolation |
+| **[UpRes](https://upres.ai)** | Commercial / API | Cloud multi-model video upscaling up to 8K, developer REST API, npm CLI & MCP server |
 | **FlashVSR** | Open source | Fast video super-resolution |
 | **Video2X** | Open source | Free upscaling (waifu2x/Real-ESRGAN) |
 | **REAL Video Enhancer** | Open source | Interpolation + upscaling GUI |
