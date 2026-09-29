@@ -18,6 +18,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
+- [Wan 2.2 24GB-Tuned ComfyUI Workflow Pack (I2V + InfiniteTalk)](https://adel93.itch.io/wan22-comfyui-workflow-pack): Local Wan 2.2 ComfyUI workflows tuned and timed on one 24GB GPU - 1280x720 I2V 8-step HIGH/LOW, 4-step Lightning, 832x480 audio-driven talking head. Measured, not quoted: the 4-step LoRA variant is *slower* than 8-step when VRAM-bound (1731s vs 1135s).
 - [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) — Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants
 - [awesome-uncensored-ai-models](https://github.com/Anil-matcha/awesome-uncensored-ai-models) — Index of the LLM, image, and video filtering-focused model catalogs
 - [MuAPI video-generation docs](https://muapi.ai/docs/video-generation) — Use the models compared here through one unified API.
