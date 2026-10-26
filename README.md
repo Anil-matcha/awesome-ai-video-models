@@ -100,7 +100,7 @@ Most models above also do image-to-video (I2V). Strongest I2V specifically:
 - **Seedance 2.0** — best price/quality for I2V
 - **Wan 2.2** — best open-source I2V
 - **Luma Ray 3** — fastest I2V for iteration
-
+- [Ideoy](https://ideoy.ai) - Remake this week's memes with one selfie (AI image-to-video, freemium, adults only, AI-labeled).
 ## Avatar & talking-head models
 
 Portrait/presenter video from a photo or actor + script. These bill by subscription or per-minute credits (not per-second like the raw generators), so the pricing column names the *model*, not a rate.
