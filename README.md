@@ -144,6 +144,7 @@ Don't trust a maker's own demo reel — check independent evals before committin
 
 - **[VBench / VBench-2.0](https://github.com/Vchitect/VBench)** — 16-dimension automated quality benchmark
 - **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
+- **[Spicy Lab](https://spicyapi.app)** — Independent NSFW AI video (plus image/chat) model rankings with side-by-side test runs and published methodology; not a generator (160 models / 3,854 runs as of 2026-11-07).
 - **Video-Bench** — human-aligned evaluation suite
 
 ## How to choose
