@@ -63,7 +63,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 | Model | Maker | Best for | APIs | Price / sec | Max res / length | Notes |
 |-------|-------|----------|------|-------------|------------------|-------|
-| **Seedance 2.5** | ByteDance | 🏆 Best overall quality | MuAPI | ~$0.05–0.25 by resolution | 4K / up to 30s, 50 refs | Multimodal references, multi-scene continuity, audio-video in one pass; also ships dedicated **Video Edit** and **Spicy** (uncensored) endpoints |
+| **Seedance 2.5** | ByteDance | 🏆 Best overall quality | MuAPI, [Protoface](https://www.protoface.com/models/bytedance-seedance-2.5) | MuAPI: ~$0.05–0.25 by resolution; Protoface: $0.184 (720p) | 4K / up to 30s, 50 refs | Multimodal references, multi-scene continuity, audio-video in one pass; MuAPI also ships dedicated **Video Edit** and **Spicy** (uncensored) endpoints |
 | **Veo 3.1** | Google | Realism + native audio | Gemini API, MuAPI | $0.15 Fast · $0.40 Quality (Lite $0.03–0.05) | 1080p/4K / ~8s | Independent editorial consensus "leads the field" on scene consistency/prompt understanding |
 | **Sora 2** | OpenAI | Coherence, long shots | OpenAI API | $0.10 Std · $0.30–0.50 Pro | 720p–1080p / ≤25s | ⚠️ API sunsets **Sept 24, 2026** — don't build against it near/after that date |
 | **Kling v3.0** | Kuaishou | Motion, prompt adherence | MuAPI | ~$0.10 (up to $0.20 w/ audio); ~$0.075 via resellers | 1080p / 5–10s | **Omni** variant (reference-driven multi-image editing/generation) and dedicated **Pro Motion Control** endpoint ($0.16/sec, complex cinematic camera work) available |
@@ -160,6 +160,7 @@ Don't trust a maker's own demo reel — check independent evals before committin
 Aggregators that expose many of the above behind one API/key:
 
 - **[MuAPI](https://muapi.ai)** — unified API across image + video models (Kling, Veo, Seedance, Hailuo, Wan, and more), one key, one billing
+- **[Protoface](https://www.protoface.com/models/bytedance-seedance-2.5)** — Seedance 2.5 API with native audio: $0.084/sec (480p), $0.184/sec (720p), $0.464/sec (1080p), $1.80/sec (4K). Text-to-video supports 4–30s; minimum billed duration 4s, total charge rounded up to $0.01. Rates exclude reference-video input charges. Verified against the linked model page on 2026-11-13; [API documentation](https://docs.protoface.com/).
 
 Native APIs (single-vendor): Google Gemini (Veo), OpenAI (Sora), Runway, Luma, Pika, MiniMax.
 
