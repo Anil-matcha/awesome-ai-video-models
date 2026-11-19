@@ -145,6 +145,7 @@ Don't trust a maker's own demo reel — check independent evals before committin
 - **[VBench / VBench-2.0](https://github.com/Vchitect/VBench)** — 16-dimension automated quality benchmark
 - **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
 - **Video-Bench** — human-aligned evaluation suite
+- **[Highworth AI](https://highworth.ai/)** — Community worth-it scores for 60+ AI models including video generators (Veo, Kling, Runway, Seedance, MiniMax H3, LTX), built from verified user reviews on Hacker News, Reddit, V2EX and Bilibili.
 
 ## How to choose
 
