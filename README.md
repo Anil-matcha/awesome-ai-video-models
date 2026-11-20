@@ -67,6 +67,7 @@ Unlike other lists that just dump links, this one answers the question developer
 | **Veo 3.1** | Google | Realism + native audio | Gemini API, MuAPI | $0.15 Fast · $0.40 Quality (Lite $0.03–0.05) | 1080p/4K / ~8s | Independent editorial consensus "leads the field" on scene consistency/prompt understanding |
 | **Sora 2** | OpenAI | Coherence, long shots | OpenAI API | $0.10 Std · $0.30–0.50 Pro | 720p–1080p / ≤25s | ⚠️ API sunsets **Sept 24, 2026** — don't build against it near/after that date |
 | **Kling v3.0** | Kuaishou | Motion, prompt adherence | MuAPI | ~$0.10 (up to $0.20 w/ audio); ~$0.075 via resellers | 1080p / 5–10s | **Omni** variant (reference-driven multi-image editing/generation) and dedicated **Pro Motion Control** endpoint ($0.16/sec, complex cinematic camera work) available |
+| **Kling 4.0** | Kuaishou | Narrative control, multimodal references, video editing | [Official Kling API](https://kling.ai/document-api/api/video/1-6/video-extension) | 1.0 unit/s (720p); 1.5 units/s (1080p); unit value depends on resource package | Up to 4K / 3–30s | Up to 10 keyframes and 15 combined references; see the official [MCP Plugin and npm CLI guide](https://kling.ai/app/mcp/guide) for agent access |
 | **Runway Gen-4.5 / Aleph** | Runway | 🏆 Best video-to-video editing (outside benchmark) | Runway API, MuAPI | $0.12 (Turbo $0.05) | 1080p / ~10s | Aleph is the model most cited as the outside comparison point in editing benchmarks; **Act-Two** ($0.07/generation) does performance transfer (facial/motion) onto a static character instead |
 | **Seedance 2.0** | ByteDance | 🏆 Best value at scale | MuAPI | ~$0.025 Mini · ~$0.05 Pro | 1080p / 5–10s | Cheapest production-grade video API in independent pricing research |
 | **PixVerse V6** | PixVerse | Flexible low-cost tiers | MuAPI | $0.033 (360p, no audio) – $0.150 (1080p, w/ audio) | 1080p / ~5–8s | Price genuinely scales with resolution, unlike flat per-generation competitors |
@@ -76,6 +77,8 @@ Unlike other lists that just dump links, this one answers the question developer
 | **Luma Ray 3** | Luma | Fast iteration, HDR | Luma API | ~$0.21 (HDR ~2×) | 1080p+HDR / 5–10s | Per-second billing |
 | **Pika 2.2** | Pika | Effects, stylization | Pika API | ~$0.05 | 1080p / ~5s | Cheapest closed model |
 | **Wan 2.6 / 3.0** | Alibaba | Cheapest native 1080p (2.6); next-gen (3.0) | MuAPI | $0.05/sec (2.6) | 1080p | Both API-only (not open-weight, unlike Wan 2.2 below); **Wan 3.0 not live yet** as of Aug 2026 |
+
+**Official Kling agent integrations:** OAuth [MCP Plugin (Global)](https://kling.ai/mcp/plugin) and [MCP Plugin (China)](https://klingai.com/mcp/plugin); npm Plugin bundles [`@klingai/plugin-global`](https://www.npmjs.com/package/@klingai/plugin-global) and [`@klingai/plugin-cn`](https://www.npmjs.com/package/@klingai/plugin-cn); standalone CLI packages [`@klingai/cli-global`](https://www.npmjs.com/package/@klingai/cli-global) and [`@klingai/cli-cn`](https://www.npmjs.com/package/@klingai/cli-cn). See the [official MCP and CLI guide](https://kling.ai/app/mcp/guide) for setup.
 
 ## Open-source models (self-host or API)
 
